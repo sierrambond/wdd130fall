@@ -1,0 +1,16 @@
+.circle {
+    display: flex;
+    justify-content: space-around;
+    border-radius: 300px;
+    border: 15px solid #444444;
+    width: 250px;
+    height: 250px;
+    margin: 5% 5%;
+    padding: 20px;
+}
+
+#box {
+    height: 830px;
+    width: 1280px;
+    background: #737373;
+}
