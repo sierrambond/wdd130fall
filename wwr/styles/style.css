@@ -23,11 +23,11 @@ main section {
 
 #background {
     height: 725px;
-    background-color: ;
+    background-color: #ACCBE1;
 }
 
 body {
-    background-color: #ACCBE1;
+    background-color: #fcfbfb;
 }
 
 header {
@@ -51,11 +51,11 @@ nav a:hover {
 }
 
 .msg {
-    background-color: white;
+    background-color: #ACCBE1;
 }
 
 footer {
-    background-color: #ACCBE1;
+    background-color: #7c98b3;
     color: #4c2e05;
 }
 
