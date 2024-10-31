@@ -1,0 +1,58 @@
+@font-face {
+    font-family: nightcore;
+    src: url("NightcoreDemo.ttf");
+}
+@font-face {
+    font-family: needleteeth;
+    src: url("NeedleteethPsycho.ttf");
+}
+
+#wrapper{
+    /* background-color: rgb(104, 181, 104); */
+    /* Example: Top to bottom gradient */
+    background: linear-gradient(to bottom, rgb(134, 200, 134), rgb(11, 98, 11));
+    /* background-image: url('h.png'); */
+    background-blend-mode: screen; /* Blend the sparkle texture with the gradient */
+
+
+
+
+    text-align: center;
+}
+
+h1 {
+    font-family: nightcore;
+    font-size: 80px;
+    margin: 10px;
+}
+
+h2 {
+    font-family: nightcore;
+    font-size: 40px;
+}
+
+li {
+    font-family: nightcore;
+    font-size: 25px;
+    text-align: left;
+    margin: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-family: needleteeth;
+    font-size: 35px;
+    border: 15px dashed rgb(140, 53, 140);
+    border-radius: 25px;
+}
+
+img {
+    border: 20px double orangered;
+}
+footer {
+    font-family: needleteeth;
+    font-size: 20px;
+}
