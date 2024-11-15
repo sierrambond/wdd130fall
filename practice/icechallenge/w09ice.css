@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#wrapper {
+    background-color: black;
+}
+
+#card {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 220px 315px 95px;
+    background-color: rgb(237, 237, 212);
+}
+
+img {
+    
+}
